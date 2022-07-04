@@ -1,4 +1,4 @@
-package com.example.airbnb.controller;
+package com.example.airbnb.controller.user;
 
 import com.example.airbnb.model.JwtResponse;
 import com.example.airbnb.model.Role;
